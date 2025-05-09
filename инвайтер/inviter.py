@@ -22,8 +22,8 @@ from telethon.errors import FloodWaitError, UserPrivacyRestrictedError
 
 
 
-API_ID = 24990728  # Замените на ваш API ID
-API_HASH = '0d4be15713aa175def48fb3481eafe02'  # Замените на ваш API Hash
+API_ID =   # Замените на ваш API ID
+API_HASH = ''  # Замените на ваш API Hash
 ACCOUNTS_DIR = 'acc'
 
 
